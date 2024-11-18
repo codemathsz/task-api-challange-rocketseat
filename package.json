@@ -1,0 +1,12 @@
+{
+  "name": "task-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "First Module Challenge (NodeJs Fundamentals) rocketseat",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "codemathsz",
+  "license": "ISC"
+}
